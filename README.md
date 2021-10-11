@@ -1,3 +1,10 @@
+# Custom theme for ghost
+Without subscribe in header, and without watermark in footer.
+
+run `npm run zip` to create an archive of the theme
+
+https://themimitoof.fr/desactiver-les-fonctions-abonnements-ghost-4/
+
 # Casper
 
 The default theme for [Ghost](http://github.com/tryghost/ghost/). This is the latest development version of Casper! If you're just looking to download the latest release, head over to the [releases](https://github.com/TryGhost/Casper/releases) page.
